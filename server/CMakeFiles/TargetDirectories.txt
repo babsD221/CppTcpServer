@@ -1,0 +1,3 @@
+/home/babs/CppProjects/chatApp/CMakeFiles/rebuild_cache.dir
+/home/babs/CppProjects/chatApp/CMakeFiles/edit_cache.dir
+/home/babs/CppProjects/chatApp/CMakeFiles/chatApp.dir
